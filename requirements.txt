@@ -1,0 +1,8 @@
+APScheduler==3.10.1
+chromedriver_autoinstaller==0.4.0
+easygui==0.98.3
+PyQt5==5.15.9
+PyQt5_sip==12.11.1
+selenium==4.10.0
+webdriver_manager==3.8.5
+win10toast==0.9
