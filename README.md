@@ -33,7 +33,7 @@ open & edit `InitVerintSpider.py` and change account and password.
 
 v0.01 Init Version
 
-v0.02 Fixed a bug of wrong time when add a new job manually, added icon, remap json file to `Jobs`` folder
+v0.02 Fixed a bug of wrong time when add a new job manually, added icon, removed json file to `Jobs` folder
 
 v0.03 Added Verint Spider, fixed a bug that import wrong parameters when bulk add.
 
